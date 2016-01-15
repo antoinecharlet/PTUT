@@ -1,0 +1,4 @@
+services:
+   #hello_word.example:
+    #   class: HelloWordBundle\Example
+     #  arguments: [@service_id, "plain_value", %parameter%]
