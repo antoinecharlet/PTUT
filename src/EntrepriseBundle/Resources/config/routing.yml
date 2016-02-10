@@ -1,0 +1,3 @@
+entreprise_homepage:
+    path:     /entreprise
+    defaults: { _controller: EntrepriseBundle:Default:index }
