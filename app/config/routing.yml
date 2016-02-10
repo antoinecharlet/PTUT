@@ -1,3 +1,7 @@
+entreprise:
+    resource: "@EntrepriseBundle/Resources/config/routing.yml"
+    prefix:   /
+
 hello_word:
     resource: "@HelloWordBundle/Resources/config/routing.yml"
     prefix:   /
